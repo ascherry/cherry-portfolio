@@ -3,7 +3,7 @@ Online portfolio collection of data visualizations for "Telling Stories with Dat
 
 # About Me 
 
-<Hello!> 
+<details><summary>Hello!</summary>
   
 My name is Dreya. 
 </details>
