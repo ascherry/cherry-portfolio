@@ -13,7 +13,7 @@ When not studying at Hamburg Hall or home with my cats, you can often find me in
 
 ## What I Hope to Learn
 
-I'm not a visual artist - I have a hard time sketching, picking appropriate colors, and relaying information in a clear way. Through this class, I hope to learn skills to make the data I come across more approachable, whether it's analyzing payroll trend, the frequency of performances, or anything in between. I want to stop shying away from data and start using it to help me achieve more in my professional life. 
+I'm not a visual artist - I have a hard time sketching, picking appropriate colors, and relaying information in a clear way. Through this class, I hope to learn skills to make the data I come across more approachable, whether it's analyzing payroll trends, the frequency of performances, or anything in between. I want to stop shying away from data and start using it to help me achieve more in my professional life. I feel like the power of data and visualizations is often overlooked in the performing arts world. But if I can learn how to convince board members to fund the next show or justify a production budget, I can help make a case for data in the arts.
 
 ## Portfolio
 
