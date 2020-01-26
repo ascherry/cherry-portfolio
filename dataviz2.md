@@ -1,6 +1,7 @@
 ## Government Debt -
 
-
+<details>
+  <summary>Hello!</summary>
 ## Government Graph
 
 
@@ -9,7 +10,7 @@
 
 Source: OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2020)
 
-
+</details>
 
 ## Beeswarm Chart
 
