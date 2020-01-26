@@ -17,4 +17,4 @@ I'm not a visual artist - I have a hard time sketching, picking appropriate colo
 
 ## Portfolio
 
-Coming soon to a screen near you! 
+[Check out my first Data Viz!](/dataviz2.md)
