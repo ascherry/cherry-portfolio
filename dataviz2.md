@@ -39,6 +39,5 @@ I chose the circle packing chart because I like the visual comparison of differe
 I made some assumptions in creating this chart. For one, I assumed my audience is from North America. For that reason, I chose to highlight Canada, Mexico, and the USA. I also assumed they want to compare the debt ratio of different countries from a current static point in time, 2017, to aid in future decisions. I should note that there was no available data for Iceland in 2017, so that country is omitted from the data set. While the chart may be harder to decipher if printed in black and white,  I chose these colors to be color-blind friendly on a computer screen. Because the chart is being posted on an online platform, I decided to prioritize color-blind friendly over printer friendly. 
  
  
- 
 [Back to Home](/)
 
