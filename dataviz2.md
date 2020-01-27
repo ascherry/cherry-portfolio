@@ -43,4 +43,4 @@ I made some assumptions in creating this chart. For one, I assumed my audience i
  All 3 of the visualizations help convey different aspects of the same data. They all help compare magnitudes and amount of debt ratio. The bar chart and circle packing chart allow the viewer to compare data amongst all the countries from a static point in time, where the beeswarm chart shows trends. The interactive nature of the bar chart is certainly an asset in helping convey information, although the data is a few years outdated. The beeswarm chart may feel crowded with information, so the circle packing chart helps by focusing on one year and one region. On the other hand, the beeswarm chart makes sure the audience in presented with all of the possible, relevant data so they will not miss anything. The interactive nature of the bar chart is certainly an asset, but with the bar chart viewers are most likely to focus on the extremes. In general, all 3 charts can help better explain the differences in worldwide debt ratios. 
  
  
-[Back](cherry-portfolio/README.md)
+[Back to Home](https://ascherry.github.io/cherry-portfolio/)
