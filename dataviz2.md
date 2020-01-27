@@ -21,7 +21,9 @@ This barchart provides a snapshot view of debt-to-GDP ratios around the world in
 
 This beeswarm chart allows us to see how debt-to-GDP ratios change over time. Larger dots indicate higher ratios. Moving horizontally, we can track each country. Looking vertically allows us to compare countries within a given year. There are some drawbacks. 
 
-With all 35 countries over 24 years, the chart is very big. If it was smaller, it would be too hard to read. However, the large size makes it difficult to make comparisons. Many of the dots are far away from labels, meaning your eye has to travel further to connect the data to its meaning. We also see the impact of the remnatns of the  
+With all 35 countries over 24 years, the chart is very big. If it was smaller, it would be too hard to read. However, the large size makes it difficult to make comparisons. Many of the dots are far away from labels, meaning your eye has to travel further to connect the data to its meaning. We also see the impact of the Hermann, or scintillating grid, effect with so many dots. 
+
+Let's see if we can make this any clearer. 
 
 
 ## Other Chart
