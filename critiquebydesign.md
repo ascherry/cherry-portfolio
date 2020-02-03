@@ -34,7 +34,7 @@ I kept on wondering why Opera America chose to show only those 3 years, despite 
 
 ![OriginalVisualization](/Wireframe1.JPG)
 
-<img src="/Wireframe1.JPG" width="800">
+<img src="/Wireframe1.JPG" width="400">
 
 
 
