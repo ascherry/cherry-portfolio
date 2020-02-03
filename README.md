@@ -18,3 +18,6 @@ I'm not a visual artist - I have a hard time sketching, picking appropriate colo
 ## Portfolio
 
 [Check out my first Data Viz!](/dataviz2.md)
+
+[Critique by Design - Assignments 3 & 4] (/critiquebydesign.md)
+
