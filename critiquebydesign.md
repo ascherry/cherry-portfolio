@@ -32,7 +32,7 @@ But that isn't what the visualization showed me. Looking at the chart above just
 
 I kept on wondering why Opera America chose to show only those 3 years, despite having data for 2013 through 2017. That helped in my wireframing approach - I wanted to somehow show the data from across all 5 years. I wasn't sure the best way to do that, so I came up with 2 ideas, shown below! 
 
-<img src="/Wireframe1.png" width="400">
+![OriginalVisualization](/Wireframe1.png)
 
 
 ### My Solution - An Area Chart
