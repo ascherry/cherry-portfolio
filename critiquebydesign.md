@@ -35,14 +35,28 @@ I kept on wondering why Opera America chose to show only those 3 years, despite 
 
 <img src="/Wireframe1part1.JPG" width="800"> <img src="/Wireframe1part2.JPG" width="800">
 
+The most important thing to me was being able to show the trends. I also adjusted the colors to be, what I thought, more readable. Because Box Office Revenue is a type of Earned Revenue, I chose to make the both different shades of purple. While Opera America separated the two, they are related. Personally, I noticed that the scale I selected for the line chart was off because no one revenue stream accounted for more than 40% and my scale goes all the way up to 100%. 
+
+When asking for feedback, I realized the colors I selected were not as helpful as I thought. The people understood how the first and second graph were related. However, one remarked they were confused with how the line graph overlapped with each other and another mentioned the area chart was just overwhelming with color. People commented that it was hard to distinguish between the different shades of purple at first. That was helpful insight, because it made me question why I grouped Box Office and Earned Income together (more on that later). They also mentioned it would be helpful to know the actual percentages of each revenue stream. 
+
+The feedback on color, separation of revenue streams, and desire to know the hard data impacted my solution to this chart. 
 
 
 ### My Solution - An Area Chart
 
-<iframe title="% of Total Operating Revenue Static Over Time" aria-label="Interactive area chart" id="datawrapper-chart-5ojcY" src="//datawrapper.dwcdn.net/5ojcY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="451"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="% of Total Cumulative Operating Revenue Over Time" aria-label="Interactive area chart" id="datawrapper-chart-5ojcY" src="//datawrapper.dwcdn.net/5ojcY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="451"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
+For my final redesign I decided to go with an Area Chart, but with some changes from my wireframed idea. For one, I decided to combine Box Office and Earned Revenue. In the arts world, we often talk about 3 revenue streams: Earned Income, Contributed Income, and Endowments (which is shown through this data as "Released Assets). In keeping with what is common in the industry, I decided to lump all Earned Income together. I also chose lighter colors than what I had originally drafted in my wireframe. Because there is a lot of color on the graph, I tried to pick something that would make it easy to look at. I also elected to go with an interactive portrayal, so the user can see more specifics on each year. 
+
+#### What's the story? 
+
+The main story is that all 3 revenue streams are almost equally accounting for the operating revenue of Budget 1 opera companies. This means that companies should focus on all 3 revenue streams, instead of primarily shifting their attention to Marketing and Sales or Development. It is worth nothing that when Earned and Contributed Revenue where down, Released Assets increase. While more information is necessary to really understand this, I think this could suggest a withdrawal from an endowment fund or the restriction of funds for a specific capital campaign. At the end of the day, there is more work to be done on this chart, but I think my solution is more aesthetically pleasing and intriguing than the original. 
+
+
 ##### What's Next for Opera America? 
+
+This graphic and data comes from the FY17 report. Someone must have told Opera America they looked outdated, because the FY18 report, which was released early 2020, has a completely different look. If you are interested in seeing the "new and improved" Opera America report, you can find it [here.] (https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf)
 
 [Back to Home](https://ascherry.github.io/cherry-portfolio/)
 
