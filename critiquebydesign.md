@@ -33,7 +33,7 @@ But that isn't what the visualization showed me. Looking at the chart above just
 I kept on wondering why Opera America chose to show only those 3 years, despite having data for 2013 through 2017. That helped in my wireframing approach - I wanted to somehow show the data from across all 5 years. I wasn't sure the best way to do that, so I came up with 2 ideas, shown below! 
 
 ![Wireframe1](/Wireframe1part1.JPG)
-![Wireframe1](/Wireframe1part2.JPG)
+![Wireframe2](/Wireframe1part2.JPG)
 
 
 The most important thing to me was being able to show the trends. I also adjusted the colors to be, what I thought, more readable. Because Box Office Revenue is a type of Earned Revenue, I chose to make the both different shades of purple. While Opera America separated the two, they are related. Personally, I noticed that the scale I selected for the line chart was off because no one revenue stream accounted for more than 40% and my scale goes all the way up to 100%. 
