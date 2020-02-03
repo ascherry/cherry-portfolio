@@ -16,13 +16,19 @@ The full FY17 report can be found [here.](https://www.operaamerica.org/files/oad
 
 This specific chart refers to data regarding Budget 1 opera companies. Because there are so many member opera companies, Opera America divides them by "Budget Groups" to compare similarly sized organizations. Budget 1 companies include The Dallas Opera, Houston Grand Opera, Los Angeles Opera, Lyric Opera of Chicago, Michigan Opera Theater, San Francisco Opera, the Santa Fe Opera, Seattle Opera, and Utah Symphony/Utah Opera. 
 
+So why pick this graph? To be honest, I really didn't understand what it was trying to say. It's imperative for an opera company to know how it's getting funded. Particularly in recent years, many opera companies have been struggling financially for a number of reasons (that's a different data set). If I were an executive at a large opera company, I would need to have a complex understanding of the revenue streams that contribute to my operating budget in order to plan for the future and ensure I am running a sustainable operation. That's what I *wanted* this visualization to tell me. 
+
 
 Source: https://www.operaamerica.org/files/oadocs/financials/FY17_AFR.pdf
 
 
-### Critique & Wireframing
+### The Redesign Process
 
+##### Critique
 
+But that isn't what the visualization showed me. Looking at the chart above just confused me. Using Stephen Few's Data Visualization Effectiveness Profile, I critiqued the chart and learned where I wanted to improve it. Using this method, I assigned the chart low scores in usefulness, perceptibility, intuitiveness, aesthetics, and engagement. Many of those facets are interconneced. For one, the color scheme did not help me interpret the graph. On my computer screen, it was hard to distinguish the different shades of green. Different colored text on top of the labels did not help the case. I was looking for a connection between all 4 categories, and couldn't find a clear one. Earned income is very different from contributed income. The color scheme contributed to confusion regarding usefulness, perceptibiltiy, aesthetics, and engagement. I also didn't like that the stacked bar charts showed 3 non-consecutive years (2013, 2016, and 2017). I had just assumed it would show the past 3 years, so this impacted the intuitive nature of the chart. I wondered - why show only 3 years? If you are looking at trends, shouldn't you use all the data? This helped lead me to my wireframe design.
+
+##### Wireframing 
 
 ### My Solution - An Area Chart
 
