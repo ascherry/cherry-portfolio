@@ -32,7 +32,7 @@ But that isn't what the visualization showed me. Looking at the chart above just
 
 I kept on wondering why Opera America chose to show only those 3 years, despite having data for 2013 through 2017. That helped in my wireframing approach - I wanted to somehow show the data from across all 5 years. I wasn't sure the best way to do that, so I came up with 2 ideas, shown below! 
 
-
+![OriginalVisualization](/Wirefram1part1.JPG)
 <img src="/Wireframe1part1.JPG" width="800"> 
 <img src="/Wireframe1part2.JPG" width="800">
 
@@ -55,7 +55,7 @@ For my final redesign I decided to go with an Area Chart, but with some changes 
 The main story is that all 3 revenue streams are almost equally accounting for the operating revenue of Budget 1 opera companies. This means that companies should focus on all 3 revenue streams, instead of primarily shifting their attention to Marketing and Sales or Development. It is worth nothing that when Earned and Contributed Revenue where down, Released Assets increase. While more information is necessary to really understand this, I think this could suggest a withdrawal from an endowment fund or the restriction of funds for a specific capital campaign. At the end of the day, there is more work to be done on this chart, but I think my solution is more aesthetically pleasing and intriguing than the original. 
 
 
-#### Next for Opera America? 
+### Next for Opera America 
 
 This graphic and data comes from the FY17 report. Someone must have told Opera America they looked outdated, because the FY18 report, which was released early 2020, has a completely different look. If you are interested in seeing the "new and improved" Opera America report, you can find it [here.](https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf)
 
