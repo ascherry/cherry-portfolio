@@ -33,7 +33,8 @@ But that isn't what the visualization showed me. Looking at the chart above just
 I kept on wondering why Opera America chose to show only those 3 years, despite having data for 2013 through 2017. That helped in my wireframing approach - I wanted to somehow show the data from across all 5 years. I wasn't sure the best way to do that, so I came up with 2 ideas, shown below! 
 
 
-<img src="/Wireframe1part1.JPG" width="800"> <img src="/Wireframe1part2.JPG" width="800">
+<img src="/Wireframe1part1.JPG" width="800"> 
+<img src="/Wireframe1part2.JPG" width="800">
 
 The most important thing to me was being able to show the trends. I also adjusted the colors to be, what I thought, more readable. Because Box Office Revenue is a type of Earned Revenue, I chose to make the both different shades of purple. While Opera America separated the two, they are related. Personally, I noticed that the scale I selected for the line chart was off because no one revenue stream accounted for more than 40% and my scale goes all the way up to 100%. 
 
@@ -56,7 +57,7 @@ The main story is that all 3 revenue streams are almost equally accounting for t
 
 #### Next for Opera America? 
 
-This graphic and data comes from the FY17 report. Someone must have told Opera America they looked outdated, because the FY18 report, which was released early 2020, has a completely different look. If you are interested in seeing the "new and improved" Opera America report, you can find it [here.] (https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf)
+This graphic and data comes from the FY17 report. Someone must have told Opera America they looked outdated, because the FY18 report, which was released early 2020, has a completely different look. If you are interested in seeing the "new and improved" Opera America report, you can find it [here.](https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf)
 
 [Back to Home](https://ascherry.github.io/cherry-portfolio/)
 
