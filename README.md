@@ -19,5 +19,5 @@ I'm not a visual artist - I have a hard time sketching, picking appropriate colo
 
 [Check out my first Data Viz!](/dataviz2.md)
 
-[Critique by Design - Assignments 3 & 4] (/critiquebydesign.md)
+[Critique by Design - Assignments 3 & 4](/critiquebydesign.md)
 
