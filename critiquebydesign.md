@@ -12,7 +12,7 @@ Each year, Opera America publishes an Annual Field report, intended to give a ho
 
 The full FY17 report can be found [here.](https://www.operaamerica.org/files/oadocs/financials/FY17_AFR.pdf) In addition to the visualization, this document from Opera America also contains all the necessary data for the redesign.  I chose to focus on the chart at the bottom of page 5 titled "Percent of Total Operating Revenue." I've inserted a screenshot below. 
 
-
+![OriginalVisualization](https://octodex.github.com/images/yaktocat.png)
 
 This specific chart refers to data regarding Budget 1 opera companies. Because there are so many member opera companies, Opera America divides them by "Budget Groups" to compare similarly sized organizations. Budget 1 companies include The Dallas Opera, Houston Grand Opera, Los Angeles Opera, Lyric Opera of Chicago, Michigan Opera Theater, San Francisco Opera, the Santa Fe Opera, Seattle Opera, and Utah Symphony/Utah Opera. 
 
