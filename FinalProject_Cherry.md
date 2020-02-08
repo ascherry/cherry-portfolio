@@ -12,30 +12,29 @@
   
 #### Story Arc 
 
-
 My story can be divided into 4 sections. 
 	
-  Part 1: The Current State of Opera
+**Part 1: The Current State of Opera
 
 >I will begin by showcasing that opera is everywhere and painting a portrait of what is being performed. To do     this, I will have a map that shows all the US opera companies as well as visualize the data of the most frequently performed operas of the last 5 years. 
 
 >Transition:  I will state the total amount number of performances (2,200) and  attendance (2.8 million) in the 2018-2019
 (https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf).
 
-  Part 2: Weaknesses in the Field 
+**Part 2: Weaknesses in the Field 
 		
 >Next I will talk about one of the main concerns within opera, stagnating and declining attendance numbers. This will          illustrate why many people feel disheartened with the field. 
 
 Transition: We have the means to figure out why this is happening through collecting survey data (Culture Track ‘17). 
 
-  Part 3:  Accessing Knowledge
+**Part 3:  Accessing Knowledge
 
 >Here I will show the top motivators and barriers to opera attendance. Motivators include having fun, enjoyable content, and  
 new things. Barriers the idea that opera is “not for people like me.”
 
 >Transition: With this data, opera companies are already able to make forward facing changes addressing motivators and barriers. 
 	
-  Part 4:  Looking Forward
+ **Part 4:  Looking Forward
 
 >Using data from Americans for the Arts and the Opera America online database, I will show how opera is addressing the        motivators and barriers. Here I will focus on 
 
