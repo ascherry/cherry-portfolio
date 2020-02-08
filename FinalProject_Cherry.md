@@ -12,7 +12,7 @@
   
 #### Story Arc 
 
-![StoryArc](/StoryArc.JPEG)
+![StoryArc](/StoryArc.jpeg)
 
 My story can be divided into 4 sections. 
 	
@@ -27,7 +27,7 @@ My story can be divided into 4 sections.
 		
 >Next I will talk about one of the main concerns within opera, stagnating and declining attendance numbers. This will          illustrate why many people feel disheartened with the field. 
 
-Transition: We have the means to figure out why this is happening through collecting survey data (Culture Track ‘17). 
+>Transition: We have the means to figure out why this is happening through collecting survey data (Culture Track ‘17). 
 
 **Part 3:  Accessing Knowledge**
 
