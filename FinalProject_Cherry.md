@@ -12,6 +12,8 @@
   
 #### Story Arc 
 
+![StoryArc](/StoryArc.JPEG)
+
 My story can be divided into 4 sections. 
 	
 **Part 1: The Current State of Opera**
