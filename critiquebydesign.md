@@ -2,9 +2,10 @@
 
 ### Opera America: The Data Gatherers of Opera 
 
-Anyone who knows me knows that I adore opera. I often cry when the curtain goes up, listen to opera on Spotify, and currently intern for an opera company. While it is a relatively small field, there is an overarching organization that helps organize opera companies and opera personnel across the world - Opera America. Their main goal is to support the creators, singers, and personnel who make opera possible. One way they fulfill this mission is through data collection and publishing reports. To learn more about Opera America, visit their website [here.](operaamerica.org)
+Anyone who knows me knows that I adore opera. I often cry when the curtain goes up, listen to opera on Spotify, and currently intern for an opera company. While it is a relatively small field, there is an overarching organization that helps organize opera companies and opera personnel across the world - Opera America. Their main goal is to support the creators, singers, and personnel who make opera possible. One way they fulfill this mission is through data collection and publishing reports. To learn more about Opera America, visit their website <a href="operaamerica.org" target="_blank">here</a>
 
-Source: https://www.operaamerica.org/content/about/index.aspx
+
+Source: <a href="https://www.operaamerica.org/content/about/index.aspx" target="_blank">https://www.operaamerica.org/content/about/index.aspx</a> 
 
 ### The Original Data Visualization
 
