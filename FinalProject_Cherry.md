@@ -42,7 +42,7 @@ new things. Barriers the idea that opera is “not for people like me.”
 
 >*Having Fun* - The 2018 Americans for the Arts Survey on Public Participation shows that Americans believe the arts give “pure pleasure” and are overall positive experiences.
 
->*Content* - To show how this motivator works, I will state how there are 2,200 performances per year 2,200 and 239 unique productions as an argument for how much content is available. https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf
+>*Content* - To show how this motivator works, I will state how there are 2,200 performances per year and 239 unique productions as an argument for how much content is available. https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf
 
 >*New Things* - New elements include premieres (new works) as well as the creation of new American companies. Here I will show the upward trends over the past 20 years. 
 
