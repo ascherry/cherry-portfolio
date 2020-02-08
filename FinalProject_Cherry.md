@@ -53,6 +53,9 @@ new things. Barriers the idea that opera is “not for people like me.”
   Go buy a ticket to an opera showing near you! 
   
 ## Initial Sketches 
+
+asdfadf
+
 ## Data
 ## Method and Medium 
 
