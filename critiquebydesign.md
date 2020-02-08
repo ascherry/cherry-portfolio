@@ -2,8 +2,7 @@
 
 ### Opera America: The Data Gatherers of Opera 
 
-Anyone who knows me knows that I adore opera. I often cry when the curtain goes up, listen to opera on Spotify, and currently intern for an opera company. While it is a relatively small field, there is an overarching organization that helps organize opera companies and opera personnel across the world - Opera America. Their main goal is to support the creators, singers, and personnel who make opera possible. One way they fulfill this mission is through data collection and publishing reports. To learn more about Opera America, visit their website <a href="operaamerica.org" target="_blank">here</a>
-
+Anyone who knows me knows that I adore opera. I often cry when the curtain goes up, listen to opera on Spotify, and currently intern for an opera company. While it is a relatively small field, there is an overarching organization that helps organize opera companies and opera personnel across the world - Opera America. Their main goal is to support the creators, singers, and personnel who make opera possible. One way they fulfill this mission is through data collection and publishing reports. To learn more about Opera America, visit their website <a href="https://www.operaamerica.org" target="_blank">here</a>
 
 Source: <a href="https://www.operaamerica.org/content/about/index.aspx" target="_blank">https://www.operaamerica.org/content/about/index.aspx</a> 
 
@@ -20,8 +19,7 @@ This specific chart refers to data regarding Budget 1 opera companies. Because t
 So why pick this graph? To be honest, I really didn't understand what it was trying to say. It's imperative for an opera company to know how it's getting funded. Particularly in recent years, many opera companies have been struggling financially for a number of reasons (that's a different data set). If I were an executive at a large opera company, I would need to have a complex understanding of the revenue streams that contribute to my operating budget in order to plan for the future and ensure I am running a sustainable operation. That's what I *wanted* this visualization to tell me. 
 
 
-Source: https://www.operaamerica.org/files/oadocs/financials/FY17_AFR.pdf
-
+Source: <a href="https://www.operaamerica.org/files/oadocs/financials/FY17_AFR.pdf" target="_blank">https://www.operaamerica.org/files/oadocs/financials/FY17_AFR.pdf</a>     
 
 ### The Redesign Process
 
@@ -58,7 +56,7 @@ The main story is that all 3 revenue streams are almost equally accounting for t
 
 ### Next for Opera America 
 
-This graphic and data comes from the FY17 report. Someone must have told Opera America they looked outdated, because the FY18 report, which was released early 2020, has a completely different look. If you are interested in seeing the "new and improved" Opera America report, you can find it [here.](https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf)
+This graphic and data comes from the FY17 report. Someone must have told Opera America they looked outdated, because the FY18 report, which was released early 2020, has a completely different look. If you are interested in seeing the "new and improved" Opera America report, you can find it <a href="https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf" target="_blank">here</a> 
 
 [Back to Home](https://ascherry.github.io/cherry-portfolio/)
 
