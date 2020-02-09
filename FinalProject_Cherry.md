@@ -86,6 +86,17 @@ Here I use graphs to show people are having fun at performing arts events, there
 ![](/DiversitySketch.JPG)
 
 ## Data
+
+The data for this project comes from many different sources. 
+
+* Data regarding the location of American opera companies comes from the Opera America website. (
+<a href="ttps://operaamerica.org/applications/Membership/index.aspx" target="_blank">ttps://operaamerica.org/applications/Membership/index.aspx.</a>). I selected only companies in the United States, because in the next chart I will show the most frequently performed operas in the US. Because this information was portrayed on a website, I saved the page as a PDF and then used Tabula to extract the data. The spreadsheet containing the data I will use in my visualization (Name, City, and State of each company) can be found  <a href="https://drive.google.com/file/d/12Muk9RHpp-LW7LWqp77A2PGeyfPmHrAJ/view?usp=sharing" target="_blank">here.</a>
+
+* Information regarding the most frequently performed operas comes from the Operabase website (<a href="https://www.operabase.com/statistics/en" target="_blank">https://www.operabase.com/statistics/en.</a>). Under statistics, users can set boundaries and pull queries using a variety of variables, including location and season of production. For the past 5 years, I pulled statistics of opera in each season in the US. Again, this appeared as a web page, so I saved it as a PDF and used Tabula to pull the data. I then compiled the past 5 years to create a list of top 10 performances. This spreadsheet of aggregated data can be found <a href="https://drive.google.com/file/d/1OjIQcMDIjKH9wi-V9QA42pbSM1jeo22i/view?usp=sharing" target="_blank">here.</a>
+
+* Numbers regarding total opera attendance in the 2018/2019 Season come from Opera America’s Annual Field Report for the FY18. The report can be downloaded at <a href="https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf" target="_blank">https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf</a>. Because I intend to use this number as a callout, I did not put it into any specific spreadsheets. 
+
+<a href="https://www.operaamerica.org" target="_blank">here.</a>
 ## Method and Medium 
 
 
