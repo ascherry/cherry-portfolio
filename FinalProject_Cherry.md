@@ -58,8 +58,9 @@ new things. Barriers the idea that opera is “not for people like me.”
 
 These sketches are designed to show the current state of opera, focusing on locations of American Opera companies and the most frequently performed opera of the last 5 years. 
 
-![](/MapSketchJPG.JPG | width=400)
+![](/MapSketchJPG.jpeg | width=400)
 ![](/MostPerformedSketch.JPG | width=400)
+
 
 **Part 2**
 
