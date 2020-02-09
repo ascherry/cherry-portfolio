@@ -115,7 +115,9 @@ The data for this project comes from many different sources.
 
 ## Method and Medium 
 
+The main presentation method for this project will be on Shortand.  
+<a href="https://shorthand.com/" target="_blank">Shorthand.</a> This will allow me to integrate charts, pictures, and text into my project. While I have not worked with Shorthand in the pass, I am familiar with other platforms like Wordpress and SquareSpace and confident I will learn how to use Shorthand effectively. 
 
-<a href="https://www.operaamerica.org" target="_blank">here.</a>
+As previously mentioned, I am using other tools to help create my project. I have already used <a href="https://tabula.technology/" target="_blank">Tabula</a> to pull data from PDFs. I plan to create my visuals using <a href="https://www.datawrapper.de/" target="_blank">DataWrapper</a>, <a href="https://rawgraphs.io/" target="_blank">RAWGraphs</a>, <a href="https://infogram.com/" target="_blank">Infogram</a>, and work with <a href="https://www.zeemaps.com/?gclid=CjwKCAiA-P7xBRAvEiwAow-VaQ6ODqDOwFizKfb-Ik_hCH9X3Kl1232ILewuqI56xZ63EgIulqzpbRoCQ6EQAvD_BwE" target="_blank">ZeeMaps</a> to create an interactive map showing the locations of all American opera companies. 
 
 [Back to Home](https://ascherry.github.io/cherry-portfolio/)
