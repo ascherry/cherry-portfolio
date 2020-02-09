@@ -82,7 +82,7 @@ Here I use graphs to show people are having fun at performing arts events, there
 
 ![](/HavingFunSketch.JPG)
 ![](/NorthAmericanPremieres.JPG)
-![](/EDI_Timeline.JPG)
+![](/EDI_TimelineJPG.JPG)
 ![](/DiversitySketch.JPG)
 
 ## Data
