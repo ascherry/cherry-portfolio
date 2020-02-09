@@ -96,6 +96,25 @@ The data for this project comes from many different sources.
 
 * Numbers regarding total opera attendance in the 2018/2019 Season come from Opera America’s Annual Field Report for the FY18. The report can be downloaded at <a href="https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf" target="_blank">https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf</a>. Because I intend to use this number as a callout, I did not put it into any specific spreadsheets. 
 
+* Overall arts attendance numbers come from the Americans for the Arts Survey on Public Participation in the Arts. I will use both the 2012 and 2017 reports to pull data to graph  trends over a longer period of time. The Appendix Tables and Report for 2017 is available at 
+<a href="https://www.arts.gov/publications/state-level-estimates-arts-participation-patterns-2017-2018" target="_blank">https://www.arts.gov/publications/state-level-estimates-arts-participation-patterns-2017-2018</a> and the 2012 report/data are available at <a href="https://www.arts.gov/publications/decade-arts-engagement-findings-survey-public-participation-arts-2002-2012" target="_blank">https://www.arts.gov/publications/decade-arts-engagement-findings-survey-public-participation-arts-2002-2012</a>. Again, I compiled the most pertinent data into an excel spreadsheet, which is accessible <a href="https://drive.google.com/file/d/1e_POUem3f9vFX4clKzYeaJPQBEge1XkS/view?usp=sharing" target="_blank">here.</a>. 
+
+* Data regarding the top motivators and barriers to the arts is compiled by LaPlaca Cohen and published in the Culture Track ‘17 report. The report along with supporting and raw data is available on their website at  (<a href="https://culturetrack.com/research/reports/" target="_blank">https://culturetrack.com/research/reports/</a>). I will use this data to highlight the reasons why opera attendance is declining and show how the field is working to motivate and engage attendance. 
+
+* Data regarding public opinion on the arts was collected through an Americans for the Arts poll in 2018. This data indicates that people do enjoy and “have fun” at arts events, which plays into the top motivator of opera attendance. This data is available online a t<a href="https://www.operaamerica.org" target="_blank">https://www.americansforthearts.org/by-program/reports-and-data/research-studies-publications/public-opinion-poll.</a> 
+
+* To show how much opera content is available, I will show the numbers of total performances and productions in the 2018-2019 season, which comes from Opera America’s Annual Field Report for the FY18. The report can be downloaded at https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf. This will be explained more than charted, so I did not move it into an excel sheet. 
+
+* To get data regarding the number of premieres and new opera companies created over the past 2 decades, I compiled a spreadsheet using information for Opera America’s North American works database (
+<a href="https://www.operaamerica.org/applications/NorthAmerican/timeLine.aspx" target="_blank">https://www.operaamerica.org/applications/NorthAmerican/timeLine.aspx</a>). I clicked through the different screens to transfer the data and compiled it in a spreadsheet <a href="https://drive.google.com/file/d/1WVFvE8E1hBP9Sofu1fJUDNgBhrHUvaum/view?usp=sharing" target="_blank">here.</a>. I will use this data to support the amount of “new things” in the opera field, which is another motivator.
+
+* To create a timeline, I will use information from an article discussing Opera America’s Equity, Diversity, and Inclusion initiatives (<a href="https://medium.com/@OPERAAmerica/a-place-of-learning-7ca5dab93840" target="_blank">https://medium.com/@OPERAAmerica/a-place-of-learning-7ca5dab93840.</a>https://medium.com/@OPERAAmerica/a-place-of-learning-7ca5dab93840). This will allow me to tell a story of the steps being taken to promote diversity within opera and create an environment where all audiences feel welcomed. 
+
+* There are more diverse opera audiences today than ever before. This data comes from the Opera America quick facts sheet, accessible at 
+<a href="https://operaamerica.org/content/about/PressRoom/quick.aspx" target="_blank">https://operaamerica.org/content/about/PressRoom/quick.aspx.</a> Again, this emphasis on showing increases in diversity helps audiences to see that opera can be for them, which addresses one of the largest barriers for opera attendance. 
+
+
+
 <a href="https://www.operaamerica.org" target="_blank">here.</a>
 ## Method and Medium 
 
