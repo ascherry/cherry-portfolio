@@ -72,7 +72,18 @@ Next I will use a call out stating total opera attendance as a transition. Then 
 
 **Part 3**
 
+In this section I'd like to show the magnitude of different motivators and barriers. 
+
+![](/MotivatorsSketchJPG.JPG)
+
 **Part 4**
+
+Here I use graphs to show people are having fun at performing arts events, there are new operatic works created regularly, and the strides the field is taking to increase diversity in audiences. I will explain content with numbers of performances and productions. 
+
+![](/HavingFunSketch.JPG)
+![](/NorthAmericanPremieres.JPG)
+![](/EDI_Timeline.JPG)
+![](/DiversitySketch.JPG)
 
 ## Data
 ## Method and Medium 
