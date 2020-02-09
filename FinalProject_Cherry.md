@@ -64,6 +64,12 @@ These sketches are designed to show the current state of opera, focusing on loca
 
 **Part 2**
 
+Next I will use a call out stating total opera attendance as a transition. Then I want to show that attendance numbers have stagnated and that opera accounts for a very small percentage of total live arts attendance. I am still unsure the best way to show that, since there are many categories and therefore many colors, so I experimented with a few different techniques in the sketch. 
+
+![](/StatCallOut.JPG)
+![](/ArtsAttendanceTrends.JPG)
+![](/AttendancebyDiscipline.JPG)
+
 **Part 3**
 
 **Part 4**
