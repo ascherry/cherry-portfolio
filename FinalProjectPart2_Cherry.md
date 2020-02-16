@@ -1,4 +1,4 @@
-# Final Project Part 2 - Storyboard, Feedback, and Wireframes (Oh my!)
+# Final Project Part 2 - Storyboard, Feedback, Wireframes, and Personas
 
 ![](/Storyboard.png)
 
