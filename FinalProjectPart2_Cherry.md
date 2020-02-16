@@ -1,10 +1,8 @@
 ![](/Storyboard.png)
 
-![](/LivePerf.jpg)
-
+![](/MapSketchJPG.jpg)
 ![](/LivePerf.jpg)
 ![](/DisciplineTrends.jpg)
-
 ![](/OverallAttendance.jpg)
 ![](/Motivators.jpg)
 ![](/Barriers.jpg)
