@@ -1,4 +1,3 @@
-![Storyboard_Update](/TSWD_Storyboard1.png)
 
 [To Part 1](/FinalProject_Cherry.md)
 
