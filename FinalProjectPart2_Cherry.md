@@ -1,6 +1,6 @@
 ![](/Storyboard.png)
 
-![](/MapSketchJPG.jpg)
+![](/MapSketchJPG.JPG)
 ![](/LivePerf.jpg)
 ![](/DisciplineTrends.jpg)
 ![](/OverallAttendance.jpg)
