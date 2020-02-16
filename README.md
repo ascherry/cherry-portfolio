@@ -21,5 +21,6 @@ I'm not a visual artist - I have a hard time sketching, picking appropriate colo
 
 [Critique by Design - Assignments 3 & 4](/critiquebydesign.md)
 
-[Final Project - Part 1](/FinalProject_Cherry.md)
+Final Project 
+- [Part 1 - Proposal](/FinalProject_Cherry.md)
 
