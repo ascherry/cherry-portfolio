@@ -1,3 +1,4 @@
+![](/Storyboard.png)
 
 [To Part 1](/FinalProject_Cherry.md)
 
