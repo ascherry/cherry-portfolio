@@ -23,6 +23,6 @@ I'm not a visual artist - I have a hard time sketching, picking appropriate colo
 
 Final Project 
 - [Part 1 - Proposal](/FinalProject_Cherry.md)
-- [Part 2 - Storyboard, Wireframes, and Personas oh my!](/FinalProjectPart2_Cherry.md)
+- [Part 2 - Storyboard, Wireframes, and Personas](/FinalProjectPart2_Cherry.md)
 
 
