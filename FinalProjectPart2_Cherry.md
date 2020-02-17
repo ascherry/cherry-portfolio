@@ -1,4 +1,4 @@
-# Final Project Part 2 - Storyboard, Feedback, Wireframes, and Personas
+# Final Project Part 2 - Storyboard, Feedback, Wireframes, and Moodboard
 
 #### Storyboard & Sketches
 
@@ -101,8 +101,6 @@ There were some recurring themes across all interview regarding money and ticket
 ![](/PleasureTableau.png)
 
 #### Moodboard
-
-#### Personas
 
 
 
