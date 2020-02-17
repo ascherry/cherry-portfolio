@@ -77,7 +77,7 @@ When asked about a changing viewpoint, this person said "I do believe my views h
 
 ##### Overall Findings
 
-There were some recurring themes across all interview regarding money and ticket prices. I will try to incorporate this information when talking about the current state and success of different opera companies. I will also identify specific examples to showcase some of the trends. 
+There were some recurring themes across all interview regarding money and ticket prices. I will try to incorporate this information when talking about the current state and success of different opera companies. I will also identify specific examples to showcase some of the trends that are harder to discuss on an industry-wide basis, such as specific initiatives to address barriers like finding someone to go with and inconvenience. 
 
 #### Revised Sketches & Proposed Changes
 
@@ -89,6 +89,7 @@ There were some recurring themes across all interview regarding money and ticket
 
 <iframe title="% of adults attending performing arts, overall" aria-label="Column Chart" id="datawrapper-chart-svod1" src="//datawrapper.dwcdn.net/svod1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
+
 
 
 
