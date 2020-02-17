@@ -77,7 +77,7 @@ When asked about a changing viewpoint, this person said "I do believe my views h
 
 ##### Overall Findings
 
-There were some recurring themes across all interview regarding money and ticket prices. I will try to incorporate this information when talking about the current state and success of different opera companies. I will also identify specific examples to showcase some of the trends that are harder to discuss on an industry-wide basis, such as specific initiatives to address barriers like finding someone to go with and inconvenience. 
+There were some recurring themes across all interview regarding money and ticket prices. I will try to incorporate this information when talking about the current state and success of different opera companies. Because I chose to work with the field as a whole, it is difficult to find data regarding ticket prices which accurately represents the whole field because companies of different sizes inherently have different ticketing models. I will attempt to explain this and use small callouts/infographics to explain a few ticket prices in different areas. I will also identify specific examples to showcase some of the trends that are harder to discuss on an industry-wide basis, such as specific initiatives to address barriers like finding someone to go with and inconvenience. Many individual opera companies have their own initiatives.
 
 #### Revised Sketches & Proposed Changes
 
