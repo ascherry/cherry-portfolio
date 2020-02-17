@@ -82,7 +82,7 @@ There were some recurring themes across all interview regarding money and ticket
 #### Revised Sketches & Proposed Changes
 
 ![Attendance](/USOperaCompanies.png)
-![Tableau](/PerformingArtsAttendanceTableau.png)
+![Tableau](/PerfArtsAttendanceTableau.png)
 
 #### Moodboard
 
