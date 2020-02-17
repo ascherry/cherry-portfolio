@@ -56,54 +56,28 @@ Again, this participant said the data changed their view on opera. Specifically,
 
 <details><summary>Interview #3</summary><br>
 
-Male, 55, some exposure to opera
+Male, 55, some exposure to opera (unspecified)
 
-The participant associated the words "cultural," "inspirational," and "international" with opera. Their 
+The participant associated the words "cultural," "inspirational," and "international" with opera. Their key takeway was that, despite confirmation that attendance is declining in fine arts performance, "here is hope that that this will stabilize and improve." this participant was confused about how the most frequently performed operas address a barrier or motivator. I can clarify that with the title of the chart. Additionally, they were confused on whether this data was for opera around the world or just in the United States. I understand where this confusion stems from, as the participant listed "international" as an element they associate with opera. Again, this is something I can clarify in my introduction. They found the motivators for attendance most interesting. For additional information, this participant wanted to know more about what was driving overall increase in performing arts attendance, since I only showed declining and stagnating attendance. This information can potentially be added to a line chart. They also asked more about funding. I am seeing ticket prices and money as a recurring theme, which suggests I should show that data in my presentation. This interviewee also asked if there were any opera companies going against the trend with increasing attenance or revenue, and why. 
 
-
-After reviewing the storyboard and sketches, what is your key takeaway?
-confirms that attendance is declining in fine arts performance, but there is hope that that this will stabilize and improve 
- 
-What, if anything, did you find confusing about the sketches?
-for the most frequently performed operas - i am not sure which are contemporary vs classic? how do they (or don't they) address the  barriers/motivators
-
-What element or sketch did you find most interesting and why?
-motivators for attendance - understanding that can give producers the basis for putting on compelling offerings to help revive the art form.
- 
-What additional information would you like to have? 
- If attendance for musicals, opera, and classical music is going down, what is driving the overall increase in performing arts attendance?
-We don't talk about money anywhere; at the end of the day, the money needs to be sufficient for artists and production companies and theaters. Is there enough $ in the business to sustain it? What are the sources (traditional/classic opera lover donors? grants? ticket and album sales?)  What are the future sources?
-
-Do you think your views towards opera have changed? Why or why not? 
-yes - makes me want to go see another contemporary opera.
+This participant stated that the storyboard and sketches "makes me want to go see another contemporary opera."
 
 </details>
 
 <details><summary>Interview #4</summary><br>
+ 
+ Female, 55, seen 1 live opera 
 
-1.	What are 3 words or phrases you associate with opera?
-Music, set, story
-2.	 Have you ever attended a live opera performance? 
-Yes.  I saw La Fille du Régiment at Opera Saratoga.
+This participant associated the words "music," "set," and "story" with opera. Their key takeaway was that 
+"Far from being a dying art form, the opera movement can take advantage of people’s interest in the arts to grow.  It seems like there is huge potential growth." In general, they had difficulty figuring out was was being compared in the sketches. This means I need to ensure the labels and titles are accurate and succinct. Like in a previous interview, they mentioned the most interesting element was the part on diversity. "I believe it is quite insightful to focus on this aspect.  I’ve felt this way myself, so I can attest that many people feel this way. Often it appears that the focus is on what those in the arts perceive as barriers (funding, accessibility, publicity, etc.) when the main barrier might be this personal connection, or lack of connection." This persone wanted additional suggestions for opera recordings or additional resources, particularly in regards to contemporary opera. This may indicate that my call to action should be adjusted to reflect further investigation into opera in any way, not just through ticket purchases, because that may not be possible for all potential users. 
 
-3.	After reviewing the storyboard and sketches, what is your key takeaway?
-Far from being a dying art form, the opera movement can take advantage of people’s interest in the arts to grow.  It seems like there is huge potential growth.
-
-4.	What, if anything, did you find confusing about the sketches?
-It was a bit difficult to know what was being compared in some of the sketches.
-5.	What element or sketch did you find most interesting and why?
-“Addressing the main barrier – It’s not for me.”  I believe it is quite insightful to focus on this aspect.  I’ve felt this way myself, so I can attest that many people feel this way. Often it appears that the focus is on what those in the arts perceive as barriers (funding, accessibility, publicity, etc.) when the main barrier might be this personal connection, or lack of connection. 
-6.	What additional information would you like to have? 
-As an elementary educator, I would like suggestions on appropriate opera or opera recordings for elementary-aged students.  It would be interesting and informative to expose my students to even small glimpses of contemporary opera.
-7.	Do you think your views towards opera have changed? Why or why not? 
-I do believe my views have changed.  The idea that opera is not just symphonic, and that there are so many vital elements involved, is huge for me.  I need to portray contemporary opera in a more positive light, focusing on story, set and costume as well as the classical music piece when I discuss opera with my students, and in discussion with adults as well.
-
+When asked about a changing viewpoint, this person said "I do believe my views have changed.  The idea that opera is not just symphonic, and that there are so many vital elements involved, is huge for me.  I need to portray contemporary opera in a more positive light, focusing on story, set and costume as well as the classical music piece when I discuss opera."
 
 </details>
 
 ##### Overall Findings
 
-
+There were some recurring themes across all interview regarding money and ticket prices. I will try to incorporate this information when talking about the current state and success of different opera companies. I will also identify specific examples to showcase some of the trends. 
 
 #### Revised Sketches & Proposed Changes
 
