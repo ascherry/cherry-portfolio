@@ -114,7 +114,7 @@ Source: LaPlaca Cohen, Culture Track '17, https://s28475.pcdn.co/wp-content/uplo
 ![](/PleasureTableau.png)
 Source: Americans for the Arts, What Americans Believe about the Arts, 2018 https://www.americansforthearts.org/sites/default/files/ARTS_FullInfographic_FINAL_0.pdf
 
-![Diversity](/YAPinfo.png)
+![Diversity](/YAPInfo.png)
 
 <iframe title="Top 5 Operas of the Last 5 Years" aria-label="Bar Chart" id="datawrapper-chart-oJEhP" src="//datawrapper.dwcdn.net/oJEhP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="184"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
