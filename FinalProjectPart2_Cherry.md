@@ -36,7 +36,11 @@ Interview Questions:
 
 <details><summary>Interview #1</summary><br>
 
-Max
+Male, 23, Never Seen a Live Opera Performance
+
+In my first interview, the participant is close to my target audience. They have never seen a live performance, and associate more obvious words like "singing" and "music" with the field. Their key takeaway was that the Great Recession negatively impacted arts attendance, but the field is now coming back. I found this interesting because I had not thought to even include information regarding the Great Recession in my chart, but it could be helpful in explaining why attendance numbers dipped. The subject was a bit confused by the circle arrangement in my "Motivator" chart. I will make sure that the elements are all easily readable. The most interesting element was "the more diverse the performance is, the more diverse the audience will be which opens up more opportunity for interest in opera." This is helpful in addressing barriers. Im regards to more information, this participant expressed interesting in learning how the average age range for opera audiences differs from other performing arts as well as the average ticket price. 
+
+Overall, the sketches were effective because "now that I've learned more about operas, I'm more willing to go to one."
 
 </details>
 
@@ -57,6 +61,8 @@ Dad
 Mom
 
 </details>
+
+##### Overall Findings
 
 
 
