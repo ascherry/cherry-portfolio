@@ -36,7 +36,7 @@ Interview Questions:
 
 <details><summary>Interview #1</summary><br>
 
-Male, 23, Never Seen a Live Opera Performance
+Male, 23, never seen a live opera performance
 
 In my first interview, the participant is close to my target audience. They have never seen a live performance, and associate more obvious words like "singing" and "music" with the field. Their key takeaway was that the Great Recession negatively impacted arts attendance, but the field is now coming back. I found this interesting because I had not thought to even include information regarding the Great Recession in my chart, but it could be helpful in explaining why attendance numbers dipped. The subject was a bit confused by the circle arrangement in my "Motivator" chart. I will make sure that the elements are all easily readable. The most interesting element was "the more diverse the performance is, the more diverse the audience will be which opens up more opportunity for interest in opera." This is helpful in addressing barriers. Im regards to more information, this participant expressed interesting in learning how the average age range for opera audiences differs from other performing arts as well as the average ticket price. 
 
@@ -44,21 +44,60 @@ Overall, the sketches were effective because "now that I've learned more about o
 
 </details>
 
-<details><summary>Interview #1</summary><br>
+<details><summary>Interview #2</summary><br>
 
-Abby
+Female, 22, seen 2 live operas
 
-</details>
+This participant listed "not in english," "dressing up," and "grandparents" as 3 words related to opera. They mentioned they had seen 2 operas while abroad and "understood very little of it." This helps fit my target audience because the participant is unfamiliar with the American opera scene. Their overall takeaway was that "opera companies/communities are making an effort to connect with today's potential audiences, though there are many barriers from people's preconceptions of the art form." This helps achieve my goal because it shows that audiences can see the change within the industry, something I am trying to illustrate with these charts. The participant found some explanations a bit confusing. They did not quite understand what Opera America is and expressed confusion over whether diversity numbers related to audiences or performers. I can clarify these points with my written explanations. This person also found the diversity barrier to be the most interesting. This will help inform my personas because younger people tend to be more interested in equity issues. For additional information, they suggested talking about addressing more barriers. While there is limited hard data to show how how the field as a whole addresses other barriers (cost, language, etc) I can explain certain case studies through anecdotes to help tell the story. 
 
-<details><summary>Interview #1</summary><br>
-
-Dad
+Again, this participant said the data changed their view on opera. Specifically, they were "surprised at the proportion of singers of color to white singers in the companies you've listed. Love seeing that."
 
 </details>
 
-<details><summary>Interview #1</summary><br>
+<details><summary>Interview #3</summary><br>
 
-Mom
+Male, 55, some exposure to opera
+
+The participant associated the words "cultural," "inspirational," and "international" with opera. Their 
+
+
+After reviewing the storyboard and sketches, what is your key takeaway?
+confirms that attendance is declining in fine arts performance, but there is hope that that this will stabilize and improve 
+ 
+What, if anything, did you find confusing about the sketches?
+for the most frequently performed operas - i am not sure which are contemporary vs classic? how do they (or don't they) address the  barriers/motivators
+
+What element or sketch did you find most interesting and why?
+motivators for attendance - understanding that can give producers the basis for putting on compelling offerings to help revive the art form.
+ 
+What additional information would you like to have? 
+ If attendance for musicals, opera, and classical music is going down, what is driving the overall increase in performing arts attendance?
+We don't talk about money anywhere; at the end of the day, the money needs to be sufficient for artists and production companies and theaters. Is there enough $ in the business to sustain it? What are the sources (traditional/classic opera lover donors? grants? ticket and album sales?)  What are the future sources?
+
+Do you think your views towards opera have changed? Why or why not? 
+yes - makes me want to go see another contemporary opera.
+
+</details>
+
+<details><summary>Interview #4</summary><br>
+
+1.	What are 3 words or phrases you associate with opera?
+Music, set, story
+2.	 Have you ever attended a live opera performance? 
+Yes.  I saw La Fille du Régiment at Opera Saratoga.
+
+3.	After reviewing the storyboard and sketches, what is your key takeaway?
+Far from being a dying art form, the opera movement can take advantage of people’s interest in the arts to grow.  It seems like there is huge potential growth.
+
+4.	What, if anything, did you find confusing about the sketches?
+It was a bit difficult to know what was being compared in some of the sketches.
+5.	What element or sketch did you find most interesting and why?
+“Addressing the main barrier – It’s not for me.”  I believe it is quite insightful to focus on this aspect.  I’ve felt this way myself, so I can attest that many people feel this way. Often it appears that the focus is on what those in the arts perceive as barriers (funding, accessibility, publicity, etc.) when the main barrier might be this personal connection, or lack of connection. 
+6.	What additional information would you like to have? 
+As an elementary educator, I would like suggestions on appropriate opera or opera recordings for elementary-aged students.  It would be interesting and informative to expose my students to even small glimpses of contemporary opera.
+7.	Do you think your views towards opera have changed? Why or why not? 
+I do believe my views have changed.  The idea that opera is not just symphonic, and that there are so many vital elements involved, is huge for me.  I need to portray contemporary opera in a more positive light, focusing on story, set and costume as well as the classical music piece when I discuss opera with my students, and in discussion with adults as well.
+
 
 </details>
 
