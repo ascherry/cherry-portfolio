@@ -87,6 +87,11 @@ There were some recurring themes across all interview regarding money and ticket
 <iframe title="% of Adults who Attend Live Performances&amp;nbsp;" aria-label="Interactive line chart" id="datawrapper-chart-8tvAs" src="//datawrapper.dwcdn.net/8tvAs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
+<iframe title="% of adults attending performing arts, overall" aria-label="Column Chart" id="datawrapper-chart-svod1" src="//datawrapper.dwcdn.net/svod1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+
+
 
 #### Moodboard
 
