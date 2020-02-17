@@ -116,8 +116,7 @@ Source: Americans for the Arts, What Americans Believe about the Arts, 2018 http
 
 #### Moodboard
 
-
-
+![](/TSWD -Mood Board.jpg)
 
 [To Part 1](/FinalProject_Cherry.md)
 
