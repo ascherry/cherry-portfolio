@@ -1,6 +1,6 @@
 # Looking Up in Opera 
 
-## Project Outline
+## Part 1 - The Idea
 
 #### Summary 
 
