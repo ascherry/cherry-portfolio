@@ -268,7 +268,7 @@ One of the hardest parts of the design process was ensuring all the visuals look
 
 #### Final Project Link 
 
-Check out my final project [here!](/https://carnegiemellon.shorthandstories.com/looking-up-in-opera/index.html)
+Check out my final project [here!](/carnegiemellon.shorthandstories.com/looking-up-in-opera/index.html)
 
 #### References 
 
