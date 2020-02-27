@@ -24,6 +24,6 @@ I'm not a visual artist - I have a hard time sketching, picking appropriate colo
 Final Project 
 - [Part 1 - Proposal](/FinalProject_Cherry.md)
 - [Part 2 - Storyboard, Feedback, Wireframes, and Moodboard](/FinalProjectPart2_Cherry.md)
-- Part 3 - Final Deliverable
+- [Part 3 - Final Deliverable](/FinalProjectPart3.md)
 
 
