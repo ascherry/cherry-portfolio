@@ -3,7 +3,7 @@
 Want to go back or skip ahead? 
 
 * [Part 1 - Proposal](/FinalProject_Cherry.md) 
-* [Part 3](/FinalProjectPart3.md)
+* [Part 3 - Final Deliverable](/FinalProjectPart3.md)
 
 
 #### Storyboard & Sketches
