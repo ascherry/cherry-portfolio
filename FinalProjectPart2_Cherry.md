@@ -2,7 +2,7 @@
 
 Want to go back or skip ahead? 
 
-* [Part 1](/FinalProject_Cherry.md) 
+* [Part 1 - Proposal](/FinalProject_Cherry.md) 
 * [Part 3](/FinalProjectPart3.md)
 
 
