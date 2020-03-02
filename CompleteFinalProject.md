@@ -270,6 +270,8 @@ One of the hardest parts of the design process was ensuring all the visuals look
 
 Check out my final project [here!](https://carnegiemellon.shorthandstories.com/looking-up-in-opera/index.html)
 
+<a href="https://carnegiemellon.shorthandstories.com/looking-up-in-opera/index.html" target="_blank">here!</a>
+
 #### References 
 
 “#Meetopera.” #meetopera. OPERA America. Accessed February 27, 2020. https://meetopera.org/.
