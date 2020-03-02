@@ -11,11 +11,11 @@ My name is Dreya (she/her/hers) and I'm a second year Arts Management student at
 When not studying at Hamburg Hall or home with my cats, you can often find me in Pittsburgh's Strip District where I intern at the Pittsburgh Opera. After graduation, I hope to continue my work in opera, scheduling rehearsals, preparing music, solidifying contracts, and helping get artists, designers, and technicians to the stage. In my limited spare time I also love going to Zumba classes, visiting all the museums in Pittsburgh, and attending as many shows and performances as I can! 
 </details>
 
-## What I Hope to Learn
+# What I Hope to Learn
 
 I'm not a visual artist - I have a hard time sketching, picking appropriate colors, and relaying information in a clear way. Through this class, I hope to learn skills to make the data I come across more approachable, whether it's analyzing payroll trends, the frequency of performances, or anything in between. I want to stop shying away from data and start using it to help me achieve more in my professional life. I feel like the power of data and visualizations is often overlooked in the performing arts world. But if I can learn how to convince board members to fund the next show or justify a production budget, I can help make a case for data in the arts.
 
-## Portfolio
+# Portfolio
 
 [Check out my first Data Viz!](/dataviz2.md)
 
