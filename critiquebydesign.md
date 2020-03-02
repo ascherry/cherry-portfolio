@@ -29,7 +29,7 @@ But that isn't what the visualization showed me. Looking at the chart above just
 
 ##### Wireframing 
 
-I kept on wondering why Opera America chose to show only those 3 years, despite having data for 2013 through 2017. That helped in my wireframing approach - I wanted to somehow show the data from across all 5 years. I wasn't sure the best way to do that, so I came up with 2 ideas, shown below! 
+I kept on wondering why OPERA America chose to show only those 3 years, despite having data for 2013 through 2017. That helped in my wireframing approach - I wanted to somehow show the data from across all 5 years. I wasn't sure the best way to do that, so I came up with 2 ideas, shown below! 
 
 ![Wireframe1](/Wireframe1part1.JPG)
 ![Wireframe2](/Wireframe1part2.JPG)
@@ -51,7 +51,7 @@ For my final redesign I decided to go with an Area Chart, but with some changes 
 
 #### What's the story? 
 
-The main story is that all 3 revenue streams are almost equally accounting for the operating revenue of Budget 1 opera companies. This means that companies should focus on all 3 revenue streams, instead of primarily shifting their attention to Marketing and Sales or Development. It is worth nothing that when Earned and Contributed Revenue where down, Released Assets increase. While more information is necessary to really understand this, I think this could suggest a withdrawal from an endowment fund or the restriction of funds for a specific capital campaign. At the end of the day, there is more work to be done on this chart, but I think my solution is more aesthetically pleasing and intriguing than the original. 
+The main story is that all 3 revenue streams are almost equally accounting for the operating revenue of Budget 1 opera companies. This means that companies should focus on all 3 revenue streams, instead of primarily shifting their attention to Marketing and Sales or Development. It is worth nothing that when Earned and Contributed Revenue decrease, Released Assets increase. While more information is necessary to really understand this, I think this could suggest a withdrawal from an endowment fund or the restriction of funds for a specific capital campaign. At the end of the day, there is more work to be done on this chart, but I think my solution is more aesthetically pleasing and intriguing than the original. 
 
 
 ### Next for OPERA America 
