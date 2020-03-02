@@ -8,13 +8,13 @@ Source: <a href="https://www.operaamerica.org/content/about/index.aspx" target="
 
 ### The Original Data Visualization
 
-Each year, Opera America publishes an Annual Field report, intended to give a holistic view of the state of the industry. For this assignment, I used data from the Annual Field Report: FY 2017. In early January 2020, they did publish the next iteration of this report. However, I am more familiar with the FY17 data, and I think it needed work. 
+Each year, OPERA America publishes an Annual Field report, intended to give a holistic view of the state of the industry. For this assignment, I used data from the Annual Field Report: FY 2017. In early January 2020, they did publish the next iteration of this report. However, I am more familiar with the FY17 data, and I think it needed work. 
 
-The full FY17 report can be found <a href="https://www.operaamerica.org/files/oadocs/financials/FY17_AFR.pdf" target="_blank">here.</a>  In addition to the visualization, this document from Opera America also contains all the necessary data for the redesign.  I chose to focus on the chart at the bottom of page 5 titled "Percent of Total Operating Revenue." I've inserted a screenshot below. 
+The full FY17 report can be found <a href="https://www.operaamerica.org/files/oadocs/financials/FY17_AFR.pdf" target="_blank">here.</a>  In addition to the visualization, this document from OPERA America also contains all the necessary data for the redesign.  I chose to focus on the chart at the bottom of page 5 titled "Percent of Total Operating Revenue." I've inserted a screenshot below. 
 
 ![OriginalVisualization](/OperaAmerica_PercTotalOperatingRev.png)
 
-This specific chart refers to data regarding Budget 1 opera companies. Because there are so many member opera companies, Opera America divides them by "Budget Groups" to compare similarly sized organizations. Budget 1 companies include The Dallas Opera, Houston Grand Opera, Los Angeles Opera, Lyric Opera of Chicago, Michigan Opera Theater, San Francisco Opera, the Santa Fe Opera, Seattle Opera, and Utah Symphony/Utah Opera. 
+This specific chart refers to data regarding Budget 1 opera companies. Because there are so many member opera companies, OPERA America divides them by "Budget Groups" to compare similarly sized organizations. Budget 1 companies include The Dallas Opera, Houston Grand Opera, Los Angeles Opera, Lyric Opera of Chicago, Michigan Opera Theater, San Francisco Opera, the Santa Fe Opera, Seattle Opera, and Utah Symphony/Utah Opera. 
 
 So why pick this graph? To be honest, I really didn't understand what it was trying to say. It's imperative for an opera company to know how it's getting funded. Particularly in recent years, many opera companies have been struggling financially for a number of reasons (that's a different data set). If I were an executive at a large opera company, I would need to have a complex understanding of the revenue streams that contribute to my operating budget in order to plan for the future and ensure I am running a sustainable operation. That's what I *wanted* this visualization to tell me. 
 
@@ -54,7 +54,7 @@ For my final redesign I decided to go with an Area Chart, but with some changes 
 The main story is that all 3 revenue streams are almost equally accounting for the operating revenue of Budget 1 opera companies. This means that companies should focus on all 3 revenue streams, instead of primarily shifting their attention to Marketing and Sales or Development. It is worth nothing that when Earned and Contributed Revenue where down, Released Assets increase. While more information is necessary to really understand this, I think this could suggest a withdrawal from an endowment fund or the restriction of funds for a specific capital campaign. At the end of the day, there is more work to be done on this chart, but I think my solution is more aesthetically pleasing and intriguing than the original. 
 
 
-### Next for Opera America 
+### Next for OPERA America 
 
 This graphic and data comes from the FY17 report. Someone must have told Opera America they looked outdated, because the FY18 report, which was released early 2020, has a completely different look. If you are interested in seeing the "new and improved" Opera America report, you can find it <a href="https://www.operaamerica.org/files/oadocs/financials/FY18_AFR.pdf" target="_blank">here</a> 
 
