@@ -1,8 +1,8 @@
 # From the Stage - Data and the Future of Opera 
 
-### Opera America: The Data Gatherers of Opera 
+### OPERA America: The Data Gatherers of Opera 
 
-Anyone who knows me knows that I adore opera. I often cry when the curtain goes up, listen to opera on Spotify, and currently intern for an opera company. Within the US and Canada, the OPERA America organization serves companies nation-wide though providing resources, tracking attendance and performance data, supporting the creation of new works, and much more! OPERA America's goal is to support creators, performers, and administrative staff who make opera possible. One way they fulfill this mission is through data collection and publishing reports. To learn more about Opera America, visit their website <a href="https://www.operaamerica.org" target="_blank">here.</a>
+Anyone who knows me knows that I adore opera. I cry when the curtain goes up, listen to opera on Spotify, and intern for an opera company. Within the US and Canada, the OPERA America organization serves companies nation-wide though providing resources, tracking attendance and performance data, supporting the creation of new works, and much more! OPERA America's goal is to support creators, performers, and administrative staff who make opera possible. One way they fulfill this mission is through data collection and publishing reports. To learn more about OPERA America, visit their website <a href="https://www.operaamerica.org" target="_blank">here.</a>
 
 Source: <a href="https://www.operaamerica.org/content/about/index.aspx" target="_blank">https://www.operaamerica.org/content/about/index.aspx</a> 
 
