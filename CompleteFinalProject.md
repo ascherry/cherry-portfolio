@@ -1,8 +1,5 @@
 # Looking Up in Opera 
 
-Already read this part? Be sure to keep following my story! 
-* [Part 2](/CherryFinalProject_Part2.md) 
-* [Part 3]
 
 ## Part 1 - The Idea
 
