@@ -1,5 +1,9 @@
 # Looking Up in Opera 
 
+Already read this part? Be sure to keep following my story! 
+* [Part 2](/FinalProjectPart2_Cherry.md) 
+* [Part 3](/FinalProjectPart3.md)
+
 ## Project Outline
 
 #### Summary 
